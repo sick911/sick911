@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently looking for a Job in web dev.
 - 🌱 I’m currently learning Web Development.
+- 🎯 My skills are: JavaScript, Basic React Js(State, Props, Components) and Bootstrap.
 - 📫 How to reach me: [@mecosec](https://twitter.com/mecosec), [koushikkalgal@gmail.com]
  - ⚡ Fun fact: Its all Darkness.
 
